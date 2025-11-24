@@ -56,4 +56,4 @@
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/Netflix-Data-Analysis.git
+   git clone https://github.com/Shweta15rajput/Netflix-Data-Analysis.git
